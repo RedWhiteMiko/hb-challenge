@@ -1,0 +1,6 @@
+[submodule "github-stats"]
+	path = github-stats
+	url = https://github.com/RedWhiteMiko/github-stats.git
+[submodule "docker-nginx-log"]
+	path = docker-nginx-log
+	url = https://github.com/RedWhiteMiko/docker-nginx-log.git
